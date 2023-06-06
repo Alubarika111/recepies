@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    background-color: azure;
+    text-align: center;
+}
+img {
+    margin-left: 30%;
+    width: 640px;
+    height: 400px; 
+}

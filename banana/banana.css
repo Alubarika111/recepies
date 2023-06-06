@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: azure;
+    color: rgb(4, 4, 36);
+    
+}
+img {
+    margin-left: 30%;
+    width: 640px;
+    height: 400px;
+}

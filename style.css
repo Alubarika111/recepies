@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: azure;
+    color: rgb(4, 4, 36);
+    
+}
+.first {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.first:hover {
+    text-decoration: underline;
+}
+li {
+    color: blue;
+    margin-bottom: 1%;
+}
